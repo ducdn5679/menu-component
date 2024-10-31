@@ -1,0 +1,15 @@
+node_modules
+.env
+build
+.DS_Store
+.npmrc.local
+.vscode/
+storybook-static/
+.build-storybook.log
+build-storybook.log
+/dist
+.idea
+/lib
+/coverage
+yarn-error.log
+.yalc/
